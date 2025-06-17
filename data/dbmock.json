@@ -1,0 +1,368 @@
+{
+    "atracoes": [
+        {
+            "title": "Museu Histórico de Mendes",
+            "category": {
+                "id": "1",
+                "name": "história"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            }
+        },
+        {
+            "title": "Praça das Palmeiras",
+            "category": {
+                "id": "2",
+                "name": "praça"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            }
+        },
+        {
+            "title": "Igreja Matriz de Santa Cruz",
+            "category": {
+                "id": "3",
+                "name": "religioso"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            }
+        },
+        {
+            "title": "Estação Ferroviária Antiga",
+            "category": {
+                "id": "4",
+                "name": "patrimônio"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            }
+        },
+        {
+            "title": "Feira de Artesanato",
+            "category": {
+                "id": "5",
+                "name": "artesanato"
+            },
+            "neighborhood": {
+                "id": "2",
+                "name": "bairro alto"
+            }
+        },
+        {
+            "title": "Mercado Municipal",
+            "category": {
+                "id": "6",
+                "name": "comida típica"
+            },
+            "neighborhood": {
+                "id": "3",
+                "name": "mercado"
+            }
+        },
+        {
+            "title": "Parque dos Ipês",
+            "category": {
+                "id": "7",
+                "name": "natureza"
+            },
+            "neighborhood": {
+                "id": "4",
+                "name": "jardim esperança"
+            }
+        },
+        {
+            "title": "Lago Azul",
+            "category": {
+                "id": "8",
+                "name": "lazer"
+            },
+            "neighborhood": {
+                "id": "4",
+                "name": "jardim esperança"
+            }
+        },
+        {
+            "title": "Casa da Cultura",
+            "category": {
+                "id": "9",
+                "name": "arte"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            }
+        },
+        {
+            "title": "Mirante do Vale",
+            "category": {
+                "id": "10",
+                "name": "paisagem"
+            },
+            "neighborhood": {
+                "id": "5",
+                "name": "bairro das flores"
+            }
+        }
+    ],
+    "trilhas": [
+        {
+            "title": "Trilha do Jequitibá",
+            "category": {
+                "id": "11",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha da Pedra Alta",
+            "category": {
+                "id": "12",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha do Vale Encantado",
+            "category": {
+                "id": "13",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha do Silêncio",
+            "category": {
+                "id": "14",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha da Nascente Secreta",
+            "category": {
+                "id": "15",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha das Orquídeas",
+            "category": {
+                "id": "16",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha do Mirante da Paz",
+            "category": {
+                "id": "17",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha da Pedra Branca",
+            "category": {
+                "id": "18",
+                "name": "trilha"
+            }
+        },
+        {
+            "title": "Trilha das Cachoeiras",
+            "category": {
+                "id": "19",
+                "name": "cachoeira"
+            }
+        },
+        {
+            "title": "Trilha da Mata Atlântica",
+            "category": {
+                "id": "20",
+                "name": "trilha"
+            }
+        }
+    ],
+    "eventos": [
+        {
+            "title": "Festival de Rock de Mendes",
+            "category": {
+                "id": "21",
+                "name": "música"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            },
+            "dates": [
+                {
+                    "date": "2025-05-14",
+                    "startTime": "18:00",
+                    "endTime": "23:00"
+                }
+            ]
+        },
+        {
+            "title": "Festival de Inverno",
+            "category": {
+                "id": "22",
+                "name": "música"
+            },
+            "neighborhood": {
+                "id": "2",
+                "name": "bairro alto"
+            },
+            "dates": [
+                {
+                    "date": "2025-07-20",
+                    "startTime": "10:00",
+                    "endTime": "22:00"
+                }
+            ]
+        },
+        {
+            "title": "Semana Cultural",
+            "category": {
+                "id": "23",
+                "name": "arte"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            },
+            "dates": [
+                {
+                    "date": "2025-09-15",
+                    "startTime": "09:00",
+                    "endTime": "18:00"
+                }
+            ]
+        },
+        {
+            "title": "Feira Gastronômica",
+            "category": {
+                "id": "24",
+                "name": "comida típica"
+            },
+            "neighborhood": {
+                "id": "3",
+                "name": "mercado"
+            },
+            "dates": [
+                {
+                    "date": "2025-05-14",
+                    "startTime": "11:00",
+                    "endTime": "16:00"
+                }
+            ]
+        },
+        {
+            "title": "Festival da Primavera",
+            "category": {
+                "id": "25",
+                "name": "flores"
+            },
+            "neighborhood": {
+                "id": "5",
+                "name": "bairro das flores"
+            },
+            "dates": [
+                {
+                    "date": "2025-10-05",
+                    "startTime": "08:00",
+                    "endTime": "18:00"
+                }
+            ]
+        },
+        {
+            "title": "Encontro de Bandas",
+            "category": {
+                "id": "26",
+                "name": "música"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            },
+            "dates": [
+                {
+                    "date": "2025-06-01",
+                    "startTime": "15:00",
+                    "endTime": "20:00"
+                }
+            ]
+        },
+        {
+            "title": "Mostra de Cinema ao Ar Livre",
+            "category": {
+                "id": "27",
+                "name": "cultura"
+            },
+            "neighborhood": {
+                "id": "4",
+                "name": "jardim esperança"
+            },
+            "dates": [
+                {
+                    "date": "2025-08-10",
+                    "startTime": "19:00",
+                    "endTime": "22:00"
+                }
+            ]
+        },
+        {
+            "title": "Noite da Seresta",
+            "category": {
+                "id": "28",
+                "name": "música"
+            },
+            "neighborhood": {
+                "id": "2",
+                "name": "bairro alto"
+            },
+            "dates": [
+                {
+                    "date": "2025-05-15",
+                    "startTime": "20:00",
+                    "endTime": "23:00"
+                }
+            ]
+        },
+        {
+            "title": "Oficina de Arte Urbana",
+            "category": {
+                "id": "29",
+                "name": "arte"
+            },
+            "neighborhood": {
+                "id": "1",
+                "name": "centro"
+            },
+            "dates": [
+                {
+                    "date": "2025-05-16",
+                    "startTime": "13:00",
+                    "endTime": "17:00"
+                }
+            ]
+        },
+        {
+            "title": "Festival de Sabores",
+            "category": {
+                "id": "30",
+                "name": "comida típica"
+            },
+            "neighborhood": {
+                "id": "3",
+                "name": "mercado"
+            },
+            "dates": [
+                {
+                    "date": "2025-05-17",
+                    "startTime": "10:00",
+                    "endTime": "18:00"
+                }
+            ]
+        }
+    ]
+}

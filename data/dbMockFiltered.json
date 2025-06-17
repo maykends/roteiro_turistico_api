@@ -1,0 +1,143 @@
+{
+  "dias": 3,
+  "gostos": [
+    "trilha",
+    "música",
+    "comida típica"
+  ],
+  "dataHoje": "2025-05-29",
+  "periodoChegada": "manha",
+  "dados": {
+    "atracoes": [
+      {
+        "type": "atracaoLocal",
+        "title": "Mercado Municipal",
+        "category": "comida típica",
+        "neighborhood": "mercado"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha do Jequitibá",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha da Pedra Alta",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha do Vale Encantado",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha do Silêncio",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha da Nascente Secreta",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha das Orquídeas",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha do Mirante da Paz",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha da Pedra Branca",
+        "category": "trilha"
+      },
+      {
+        "type": "trilha",
+        "title": "Trilha da Mata Atlântica",
+        "category": "trilha"
+      },
+      {
+        "type": "evento",
+        "title": "Festival de Rock de Mendes",
+        "category": "música",
+        "neighborhood": "centro",
+        "dates": [
+          {
+            "date": "2025-05-14",
+            "startTime": "18:00",
+            "endTime": "23:00"
+          }
+        ]
+      },
+      {
+        "type": "evento",
+        "title": "Festival de Inverno",
+        "category": "música",
+        "neighborhood": "bairro alto",
+        "dates": [
+          {
+            "date": "2025-07-20",
+            "startTime": "10:00",
+            "endTime": "22:00"
+          }
+        ]
+      },
+      {
+        "type": "evento",
+        "title": "Feira Gastronômica",
+        "category": "comida típica",
+        "neighborhood": "mercado",
+        "dates": [
+          {
+            "date": "2025-05-14",
+            "startTime": "11:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "type": "evento",
+        "title": "Encontro de Bandas",
+        "category": "música",
+        "neighborhood": "centro",
+        "dates": [
+          {
+            "date": "2025-06-01",
+            "startTime": "15:00",
+            "endTime": "20:00"
+          }
+        ]
+      },
+      {
+        "type": "evento",
+        "title": "Noite da Seresta",
+        "category": "música",
+        "neighborhood": "bairro alto",
+        "dates": [
+          {
+            "date": "2025-05-15",
+            "startTime": "20:00",
+            "endTime": "23:00"
+          }
+        ]
+      },
+      {
+        "type": "evento",
+        "title": "Festival de Sabores",
+        "category": "comida típica",
+        "neighborhood": "mercado",
+        "dates": [
+          {
+            "date": "2025-05-17",
+            "startTime": "10:00",
+            "endTime": "18:00"
+          }
+        ]
+      }
+    ]
+  }
+}
